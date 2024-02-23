@@ -10,9 +10,9 @@ The project focuses on analyzing sales data from coffee shops to unveil trends a
 
 **Data Analysis Tools:**
 
-**Microsoft Excel:** Utilized for various functions including formulae for Total Revenue calculation, Month, Weekday, and Hour categorization, Pivot Tables, Data Modeling, and Dashboard creation.
+**Microsoft Excel:** Utilized for various functions including formulae for Total Revenue calculation, Month, Weekday, and Hour categorization, Pivot Tables, Data Modelling, and Dashboard creation.
 
-**Microsoft Power BI:** Employed for Power Query operations, Measures computation for metrics like Total Revenue, Average Bill, Average Orders, and Total Footfall, Data Modeling, Reporting, Visualization using Charts, Slicers, and creation of Dashboards.
+**Microsoft Power BI:** Employed for Power Query operations, Measures computation for metrics like Total Revenue, Average Bill, Average Orders, and Total Footfall, Data Modelling, Reporting, Visualization using Charts, Slicers, and creation of Dashboards.
 Key Findings:
 
 **Key Findings:**
