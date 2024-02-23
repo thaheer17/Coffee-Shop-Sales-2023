@@ -31,4 +31,4 @@ By meticulously analyzing and visualizing data through Excel dashboards, the pro
 [Click Here](https://codebasics.io/portfolio/Shaik-Thaheer) to view my Portfolio. 
 
 ![Excel1](https://github.com/thaheer17/Coffee-Shop-Sales-2023/assets/140732104/7c2828c3-a8c9-4423-988b-27eff0fce560)
-![BI1](https://github.com/thaheer17/Coffee-Shop-Sales-2023/assets/140732104/04beba13-6418-4853-83bf-709cbe282a64)
+![BI1](https://github.com/thaheer17/Coffee-Shop-Sales-2023/assets/140732104/a0d48645-b214-47bd-8144-b0cd1cfc1545)
